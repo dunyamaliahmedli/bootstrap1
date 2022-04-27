@@ -1,0 +1,89 @@
+.main1{
+    width: 100%;
+    background-color: white;
+    margin-top: 220px;
+    margin-left: 160px;
+
+}
+.main1 h1{
+    font-size: 72px;
+    width: 37%;
+    font-weight: bold;
+}
+.main1 p{
+    font-size: 18px;
+    width: 33%;
+    color: #6c757d ;
+}
+.playmarket{
+    font-size: 30px;
+    display: inline-block;
+    display: flex;
+}
+.imgg{
+    display: flex;
+    gap: 7px
+    ;
+}
+.iphone{
+    width: 20rem;
+    height: 40vh;
+    margin-left: 380px;
+    margin-top: -250px;
+    opacity: 1;
+
+
+}
+ 
+.iphone img{
+   width: 350px;
+}
+    .bos{
+        width: 100%;
+    height: 7vh;
+    }
+.main2{
+    width: 100%;
+  height: 40vh;
+  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+.main2 h1{
+ 
+    color: white;
+    width: 58%;
+  margin-left: 300px;
+  padding-top: 100px;
+}
+.hh1{
+   margin-top: 100px;
+}
+.imgglogo{
+   margin-left: 650px;
+   padding-top: 50px;
+}
+.iphone1{
+    padding-top: 100px;
+    margin-left: 100px;
+    width: 500px;
+ }
+ .setr1{
+     display: flex;
+     margin-left: 650px;
+     margin-top: -480px;
+ }
+ .setr1 i{
+     font-size: 60px;
+ }
+    .setr2{
+        display: flex;
+        margin-left: 650px;
+        margin-top: 30px;
+        
+
+    }
+    .setr2 i{
+       font-size: 60px;
+       justify-content: center;
+        justify-content: center;
+    }
+  
